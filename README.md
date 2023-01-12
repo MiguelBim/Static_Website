@@ -1,4 +1,4 @@
-# Viking
+# Viking Static Website
 
 Demo images from [Unsplash](https://unsplash.com/).
 Icons from [Entypo](http://entypo.com/).
