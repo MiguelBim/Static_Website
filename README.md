@@ -1,4 +1,4 @@
-# Viking Static Website
+# Viking - Static Website
 
 Demo images from [Unsplash](https://unsplash.com/).
 
